@@ -9,7 +9,7 @@ This repository contains code for **binary narrative prediction** using a **DeBE
 
 ---
 
-## Evaluation Metrics
+# Evaluation Metrics
 
 accuracy, precision, recall, f1-score, macro-avg, weighted-avg
 
